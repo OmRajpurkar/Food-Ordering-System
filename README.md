@@ -14,3 +14,6 @@ Food Ordering System has taken a leap in the recent years. This website will eli
 
 ## Screenshots
 
+**Home Page**
+
+<img src="https://github.com/OmRajpurkar/Todo-List/blob/master/Screenshots/1.PNG" alt="alt text" width="500" height="300">
