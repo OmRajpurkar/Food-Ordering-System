@@ -29,3 +29,43 @@ Food Ordering System has taken a leap in the recent years. This website will eli
 **Users Home Page**
 
 <img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/4.png" alt="alt text" width="700" height="450">
+
+**User Ordering Food**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/5.png" alt="alt text" width="700" height="450">
+
+**Users Order Cart**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/6.png" alt="alt text" width="700" height="450">
+
+**Payment**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/7.png" alt="alt text" width="700" height="450">
+
+**User Details**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/8.png" alt="alt text" width="700" height="450">
+
+**Users Order History**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/9.png" alt="alt text" width="700" height="450">
+
+**About Page**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/10.png" alt="alt text" width="700" height="450">
+
+**Restaurants Home Page**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/11.png" alt="alt text" width="700" height="450">
+
+**Restaurants Order History**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/12.png" alt="alt text" width="700" height="450">
+
+**Restaurant Updating Profile(Add or Delete Food Items)**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/13.png" alt="alt text" width="700" height="450">
+
+**Add Item Menu**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/14.png" alt="alt text" width="700" height="450">
