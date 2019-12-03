@@ -16,4 +16,4 @@ Food Ordering System has taken a leap in the recent years. This website will eli
 
 **Home Page**
 
-<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/1.png" alt="alt text" width="700" height="400">
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/1.png" alt="alt text" width="700" height="450">
