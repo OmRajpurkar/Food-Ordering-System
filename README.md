@@ -17,3 +17,15 @@ Food Ordering System has taken a leap in the recent years. This website will eli
 **Home Page**
 
 <img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/1.png" alt="alt text" width="700" height="450">
+
+**Login**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/2.png" alt="alt text" width="700" height="450">
+
+**Register**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/3.png" alt="alt text" width="700" height="450">
+
+**Users Home Page**
+
+<img src="https://github.com/OmRajpurkar/Food-Ordering-System/blob/master/SCREENSHOTS/4.png" alt="alt text" width="700" height="450">
