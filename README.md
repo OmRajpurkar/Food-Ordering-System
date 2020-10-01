@@ -1,6 +1,6 @@
 # Food-Ordering-System
 
-Food Ordering System has taken a leap in the recent years. This website will eliminate the need to pick up your phone to call for some grub! Whether you’re craving some Indian, Italian or Chinese, FOODIE has a varied range of restaurants to choose from. The most important part is that the payment, can be settled online, meaning you need to just focus on enjoying your feast!
+Food Ordering System is an application which will help restaurant to optimized and control over their restaurants. This application helps the restaurants to do all functionalities more accurately and faster way. It reduces manual works and improves efficiency of restaurant. Food ordering system has taken a leap in the recent years. This website will eliminate the need to pick up your phone to call for some grub! Whether you’re craving some Indian, Italian or Chinese, FOODIE has a varied range of restaurants to choose from. The most important part is that the payment, can be settled online, meaning you need to just focus on enjoying your feast!
 
 ## Features
 
